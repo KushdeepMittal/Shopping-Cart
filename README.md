@@ -1,7 +1,7 @@
 # Shopping-Cart
 A Shopping Cart based on Nodejs and Jquery.
 
-##Run
+## Run
 
 Clone this repository
 Install all dependencies using npm install
