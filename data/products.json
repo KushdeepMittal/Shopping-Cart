@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "img":"apple.jpg"  ,
+    "title": "Apples",
+    "description": "Apples are <span class=\"label label-info\">25 Rs/Kg</span>",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "img":"orange.jpg",
+    "title": "Oranges",
+    "description": "Oranges are <span class=\"label label-info\">30 Rs/Kg</span>",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "img":"garlic.jpg",
+    "title": "Garlic",
+    "description": "Garlic are <span class=\"label label-info\">15 Rs/Kg</span>",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "img":"papaya.jpg",
+    "title": "Papayas",
+    "description": "Papayas are <span class=\"label label-info\">50 Rs/Kg</span>",
+    "price": 100
+  }
+]
